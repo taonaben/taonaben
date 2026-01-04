@@ -1,41 +1,127 @@
-<h1 align="center">Hie, i'm Taona (Projectbaby)</h1>
-<h3 align="center">A passionate full stack developer from Zimbabwe</h3>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Taona Munikwa | Projectbaby</title>
+</head>
 
+<body>
 
-<h3 align="start">About me?</h3>
+<pre align="center">
+┌──────────────────────────────────────────────┐
+│                                              │
+│   TAONA MUNIKWA  •  PROJECTBABY               │
+│   Full-Stack Developer                        │
+│   Zimbabwe 🇿🇼                                │
+│                                              │
+└──────────────────────────────────────────────┘
+</pre>
 
-- 💼 Pursuing my Barchelors in Information Technology at Chinhoyi University of Technology in Zimbabwe. Currently in the final year!
+<h3 align="center">
+Building useful things. Breaking them. Fixing them properly.
+</h3>
 
-- 🌐 I love writing Python and Dart to build beautiful applications
+<hr />
 
-- ❤️ Passionate about a lot of things outside of Software Dev including my love of cars, Formula 1, Music, Fashion, Anime
+<h2>👋 About Me</h2>
 
-- 📝 I regularly write articles on [medium](medium.com/@projectbaby)
+<pre>
+> Engineer by training, builder by habit.
+> I like systems that make sense and code that survives contact with reality.
+</pre>
 
-- 📫 How to reach me **munikwataona09@gmail.com**
-  
-  
+<ul>
+  <li>
+    🎓 <strong>BSc in Information Technology</strong> — Chinhoyi University of Technology<br />
+    <em>Final year student, focused on real-world software engineering</em>
+  </li>
 
-<h3 align="start">Work?</h3>
+  <li>
+    🧠 Primarily working with <strong>Python</strong> and <strong>Dart</strong>, building scalable backends
+    and clean, functional user-facing applications
+  </li>
 
-- 🧱 Currently building on my personal project [Grupus](https://github.com/taonaben/grupus.git)
+  <li>
+    🚗 Interests outside tech: <strong>Cars &amp; Formula 1</strong>, <strong>Music</strong>,
+    <strong>Fashion</strong>, <strong>Anime</strong>, and currently learning <strong>German 🇩🇪</strong>
+  </li>
 
-- 🫂 Collaborating as Lead Backend Developer and Project Manager on our final year [group project]()
+  <li>
+    ✍🏽 I occasionally write on
+    <a href="https://medium.com/@projectbaby" target="_blank">Medium</a>
+  </li>
 
-- 👨‍💻 All of my projects are available on my [GitHub](https://github.com/taonaben)
+  <li>
+    📬 Reach me at <strong>munikwataona09@gmail.com</strong>
+  </li>
+</ul>
 
-- 💬 Ask me about **python, Dart, PostgreSQl**
+<hr />
 
-- ⚡ Fun fact **Pretty chill dude**
+<h2>🛠️ Work &amp; Focus</h2>
 
-<h3 align="start">Favorite Tech Stack?</h3>
+<pre>
+Current mindset:
+- ship something useful
+- understand it deeply
+- don’t over-engineer unless necessary
+</pre>
 
-  - Django
-  - FastApi
-  - Flutter
-  - Docker
-  - Github
-  - Postgres
+<ul>
+  <li>
+    🧱 Building <strong>Grupus</strong> — a collaborative workspace &amp; productivity platform<br />
+    <a href="https://github.com/taonaben/grupus.git" target="_blank">GitHub Repository</a>
+  </li>
+
+  <li>
+    🫂 <strong>Lead Backend Developer &amp; Project Manager</strong><br />
+    Final-year university group project (architecture, task planning, delivery)
+  </li>
+
+  <li>
+    👨‍💻 Most of my work lives on
+    <a href="https://github.com/taonaben" target="_blank">GitHub</a>
+  </li>
+
+  <li>
+    💬 Ask me about <strong>Python</strong>, <strong>Dart</strong>, <strong>APIs</strong>,
+    <strong>PostgreSQL</strong>, and backend system design
+  </li>
+
+  <li>
+    ⚡ Fun fact: calm under pressure, allergic to bad documentation
+  </li>
+</ul>
+
+<hr />
+
+<h2>⚙️ Tech Stack</h2>
+
+<pre>
+Tools I actually use (not just buzzwords):
+</pre>
+
+<ul>
+  <li><strong>Backend:</strong> Django, FastAPI</li>
+  <li><strong>Mobile / Frontend:</strong> Flutter</li>
+  <li><strong>Database:</strong> PostgreSQL</li>
+  <li><strong>DevOps:</strong> Docker</li>
+  <li><strong>Version Control:</strong> Git &amp; GitHub</li>
+</ul>
+
+<hr />
+
+<h2>📈 Philosophy</h2>
+
+<pre>
+Simple   > Clever
+Readable > Smart
+Done     > Perfect
+</pre>
+
+</body>
+</html>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taonaben" alt="taonaben" /></a> </p>
 
