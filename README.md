@@ -1,8 +1,6 @@
 <h1 align="center">Hie, i'm Taona (Projectbaby)</h1>
 <h3 align="center">A passionate full stack developer from Zimbabwe</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taonaben" alt="taonaben" /></a> </p>
-
 
 <h3 align="start">About me?</h3>
 
@@ -39,7 +37,11 @@
   - Github
   - Postgres
 
-<h3 align="left">Connect with me:</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taonaben" alt="taonaben" /></a> </p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taonaben&" alt="taonaben" /></p>
+
+<h3 align="left">Connect with me?</h3>
 <p align="left">
 <a href="https://twitter.com/pr0j3ctbaby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pr0j3ctbaby" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/taona munikwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taona munikwa" height="30" width="40" /></a>
@@ -54,4 +56,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=taonaben&show_icons=true&locale=en&layout=compact" alt="taonaben" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taonaben&" alt="taonaben" /></p>
+
