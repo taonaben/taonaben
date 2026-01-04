@@ -1,21 +1,43 @@
-<h1 align="center">Hey there i'm Taona (Projectbaby)</h1>
+<h1 align="center">Hie, i'm Taona (Projectbaby)</h1>
 <h3 align="center">A passionate full stack developer from Zimbabwe</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taonaben" alt="taonaben" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter, Django, Pytorch, Data Science**
 
-- 👯 I’m looking to collaborate on **backend, ML projects**
+<h3 align="start">About me?</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/taonaben](https://github.com/taonaben)
+- 💼 Pursuing my Barchelors in Information Technology at Chinhoyi University of Technology in Zimbabwe. Currently in the final year!
+
+- 🌐 I love writing Python and Dart to build beautiful applications
+
+- ❤️ Passionate about a lot of things outside of Software Dev including my love of cars, Formula 1, Music, Fashion, Anime
 
 - 📝 I regularly write articles on [medium.com/@projectbaby](medium.com/@projectbaby)
 
+- 📫 How to reach me **munikwataona09@gmail.com**
+  
+  
+
+<h3 align="start">Work?</h3>
+
+- 🧱 Currently building on my personal project [Grupus](https://github.com/taonaben/grupus.git)
+
+- 🫂 Collaborating as Lead Backend Developer and Project Manager on our final year [group project]()
+
+- 👨‍💻 All of my projects are available at [https://github.com/taonaben](https://github.com/taonaben)
+
 - 💬 Ask me about **python, Dart, PostgreSQl**
 
-- 📫 How to reach me **munikwataona09@gmail.com**
-
 - ⚡ Fun fact **Pretty chill dude**
+
+<h3 align="start">Favorite Tech Stack?</h3>
+
+  - Django
+  - FastApi
+  - Flutter
+  - Docker
+  - Github
+  - Postgres
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
