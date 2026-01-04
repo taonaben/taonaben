@@ -119,8 +119,6 @@ Readable > Smart
 Done     > Perfect
 </pre>
 
-</body>
-</html>
 
 <h2>🔢 Stats</h2>
 
@@ -128,7 +126,7 @@ Done     > Perfect
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taonaben&" alt="taonaben" /></p>
 
-<h2>🏆 Achievements & Badges>�h2�
+<h2>🏆 Achievements & Badges></h2>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taonaben" alt="taonaben" /></a> </p>
 
@@ -142,10 +140,7 @@ Done     > Perfect
 <a href="https://medium.com/@projectbaby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@projectbaby" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@projectbaby_09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@projectbaby_09" height="30" width="40" /></a>
 </p>
-orflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=taonaben&show_icons=true&locale=en&layout=compact" alt="taonaben" /></p>
 
 
-
-
+</body>
+</html>
