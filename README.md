@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>Taona Munikwa | Projectbaby</title>
+  <!-- <title>Taona Munikwa | Projectbaby</title> -->
 </head>
 
 <body>
