@@ -12,7 +12,7 @@
 
 - ❤️ Passionate about a lot of things outside of Software Dev including my love of cars, Formula 1, Music, Fashion, Anime
 
-- 📝 I regularly write articles on [medium.com/@projectbaby](medium.com/@projectbaby)
+- 📝 I regularly write articles on [medium](medium.com/@projectbaby)
 
 - 📫 How to reach me **munikwataona09@gmail.com**
   
@@ -24,7 +24,7 @@
 
 - 🫂 Collaborating as Lead Backend Developer and Project Manager on our final year [group project]()
 
-- 👨‍💻 All of my projects are available at [https://github.com/taonaben](https://github.com/taonaben)
+- 👨‍💻 All of my projects are available on my [GitHub](https://github.com/taonaben)
 
 - 💬 Ask me about **python, Dart, PostgreSQl**
 
