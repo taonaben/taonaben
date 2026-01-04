@@ -127,6 +127,8 @@ Done     > Perfect
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taonaben&" alt="taonaben" /></p>
 
+![Taona's GitHub stats](https://github-readme-stats.vercel.app/api?username=taonaben&show_icons=true&bg_color=00000000)
+
 <h3 align="left">Connect with me?</h3>
 <p align="left">
 <a href="https://twitter.com/pr0j3ctbaby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pr0j3ctbaby" height="30" width="40" /></a>
