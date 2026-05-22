@@ -10,8 +10,8 @@
 <pre align="center">
 ┌──────────────────────────────────────────────┐
 │                                              │
-│   TAONA MUNIKWA  •  PROJECTBABY               │
-│   Full-Stack Developer                        │
+│   TAONA MUNIKWA  •  PROJECTBABY              │
+│   Full-Stack Developer                       │
 │   Zimbabwe 🇿🇼                                │
 │                                              │
 └──────────────────────────────────────────────┘
@@ -33,11 +33,11 @@ Building useful things. Breaking them. Fixing them properly.
 <ul>
   <li>
     🎓 <strong>BSc in Information Technology</strong> — Chinhoyi University of Technology<br />
-    <em>Final year student, focused on real-world software engineering</em>
+    <!-- <em>Final year student, focused on real-world software engineering</em> -->
   </li>
 
   <li>
-    🧠 Primarily working with <strong>Python</strong> and <strong>Dart</strong>, building scalable backends
+    🧠 Primarily working with <strong>Python</strong>, <strong>React</strong> and <strong>Dart</strong>, building scalable backends
     and clean, functional user-facing applications
   </li>
 
