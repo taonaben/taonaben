@@ -11,7 +11,7 @@
 ┌──────────────────────────────────────────────┐
 │                                              │
 │   TAONA MUNIKWA  •  PROJECTBABY              │
-│   Full-Stack Developer                       │
+│   Software Engineer                          │
 │   Zimbabwe 🇿🇼                                │
 │                                              │
 └──────────────────────────────────────────────┘
