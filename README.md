@@ -51,13 +51,12 @@
   ],
   "stats": {
     "public_repos": 0,
-    "contributions_past_year": 0,
     "followers": 0,
     "following": 0,
-    "lines_of_code": {
-      "added": 0,
-      "removed": 0
-    }
+    "contributions_past_year": 0,
+    "current_streak_days": 0,
+    "longest_streak_days": 0,
+    "last_updated": "not yet run"
   },
   "contact": {
     "email": "munikwataona09@gmail.com",
