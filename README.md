@@ -50,13 +50,13 @@
     "Role-based Access Control"
   ],
   "stats": {
-    "public_repos": 0,
-    "followers": 0,
-    "following": 0,
-    "contributions_past_year": 0,
-    "current_streak_days": 0,
-    "longest_streak_days": 0,
-    "last_updated": "not yet run"
+    "public_repos": 39,
+    "followers": 7,
+    "following": 6,
+    "contributions_past_year": 613,
+    "current_streak_days": 4,
+    "longest_streak_days": 49,
+    "last_updated": "2026-07-29"
   },
   "contact": {
     "email": "munikwataona09@gmail.com",
